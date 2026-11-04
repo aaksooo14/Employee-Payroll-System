@@ -122,7 +122,7 @@ Employee in the company :: Employee [name=vikas chauhan, id=1, salary=50000.0]
 
 **Akash Sahastrabuddhe**
 
-Java Developer | Learning Object-Oriented Programming and Backend Development
+MERN developer | Learning Object-Oriented Programming and Backend Development
 
 ---
 
